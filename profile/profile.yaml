@@ -84,7 +84,7 @@ professional_experience:
     company: "Jarvis"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: " "
+    description: "As a Software Developer, I utilized Linux, Java, Bash scripting, RDBMS, SQL, Scrum, and Git to design, develop, and maintain software applications, while ensuring efficient collaboration, version control, and troubleshooting within an Agile environment."
   - title: "Software Developer Intern"
     company: "Epitaxial IT"
     duration: "2022"
@@ -97,12 +97,15 @@ education:
     degree: "Advanced Diploma"
     department: "Game Programming"
     # optional
+    awards_achievements:
+      - "2.9 GPA"
 
   - school_name: "Gujarat Technological University"
     duration: "2015-2019"
     degree: "Bachelor of Engineering"
     department: "Computer Engineering"
-
+    awards_achievements:
+      - "7.5 CGPA"
 
 #Optional section
 others:
