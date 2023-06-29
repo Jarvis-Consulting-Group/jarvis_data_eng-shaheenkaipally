@@ -34,15 +34,15 @@
   ],
   "jarvis_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": " ",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
     },
     {
       "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+        "Twitter App:",
+        "JDBC App: ",
+        "Grep App: "
       ],
       "git_url": "/core_java",
       "name": "Core Java Apps"
@@ -53,22 +53,22 @@
       "name": "Springboot App"
     },
     {
-      "description": "",
+      "description": " ",
       "git_url": "/python_data_anlytics",
       "name": "Python Data Analytics"
     },
     {
-      "description": "",
+      "description": " ",
       "git_url": "/hadoop",
       "name": "Hadoop"
     },
     {
-      "description": "",
+      "description": " ",
       "git_url": "/spark",
       "name": "Spark"
     },
     {
-      "description": "",
+      "description": " ",
       "git_url": "/cloud_devops",
       "name": "Cloud/DevOps"
     }
@@ -77,15 +77,15 @@
   "others": [
     {
       "bullets": [
-        "GRRAS Solutions (2020)"
+        "AWS Trainee Certificate - GRRAS Solutions (2020)"
       ],
       "title": "AWS Trainee Certificate"
     },
     {
       "bullets": [
         "Professional Photographer",
-        "Competitive gaming",
-        "Graphic Designer/Photo Editor"
+        "Graphic Designer/Photo Editor",
+        " "
       ],
       "title": "Activities/Hobbies"
     }
