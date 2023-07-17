@@ -20,13 +20,14 @@ summary: I am a Computer Engineer from Gujarat Technological University with a d
 skills:
   # At least 5 skills
   proficient:
+    - JavaScript
+    - HTML/CSS
+    - NodeJS
+    - Angular
+    - ExpressJS
     - Agile/Scrum
     - Git
     - RDBMS/SQL
-    - HTML/CSS
-    - NodeJS
-    - ReactJS
-    - ExpressJS
   # At least 5 skills
   competent:
     - AWS
@@ -35,6 +36,7 @@ skills:
     - Docker
     - Java
     - Linux/Bash
+    - ReactJS
 
   # At least 5 skills
   familiar:
