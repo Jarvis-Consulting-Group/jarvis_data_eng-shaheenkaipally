@@ -75,11 +75,12 @@
   "skills": {
     "competent": [
       "AWS",
-      "NodeJS",
-      "ReactJS",
-      "ExpressJS",
+      "Python",
       "PHP",
-      "Docker"
+      "Docker",
+      "Java",
+      "Linux/Bash",
+      "ReactJS"
     ],
     "familiar": [
       "C++",
@@ -89,13 +90,14 @@
       "Unity 3D"
     ],
     "proficient": [
-      "Java",
-      "Linux/Bash",
-      "RDBMS/SQL",
+      "JavaScript",
+      "HTML/CSS",
+      "NodeJS",
+      "Angular",
+      "ExpressJS",
       "Agile/Scrum",
       "Git",
-      "Python",
-      "HTML/CSS"
+      "RDBMS/SQL"
     ]
   },
   "summary": "I am a Computer Engineer from Gujarat Technological University with a diploma in Computer Science majoring in Game Programming from Centennial College. I have worked on several solo as well as team projects to build responsive websites and software while pursuing my Engineering degree. My technical skills include programming languages such as Python, Java, C#, and C++.  In web development, I am proficient in HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, PHP, WordPress, and responsive design. During my software developer internship, I contributed to web application development using PHP, MySQL, and MVC architecture. I also gained experience with version control using Git and implemented APIs for integration. Moreover, As an AWS Trainee, I deployed AWS solutions architecture, optimized performance, and ensured security by configuring web applications on EC2 instances."
