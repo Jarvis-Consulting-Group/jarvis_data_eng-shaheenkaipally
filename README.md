@@ -4,9 +4,9 @@ I am a Computer Engineer from Gujarat Technological University with a diploma in
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, Python, HTML/CSS
+**Proficient:** JavaScript, HTML/CSS, NodeJS, Angular, ExpressJS, Agile/Scrum, Git, RDBMS/SQL
 
-**Competent:** AWS, NodeJS, ReactJS, ExpressJS, PHP, Docker
+**Competent:** AWS, Python, PHP, Docker, Java, Linux/Bash, ReactJS
 
 **Familiar:** C++, C#, C, REST API, Unity 3D
 
